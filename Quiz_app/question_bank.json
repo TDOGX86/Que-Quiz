@@ -1,0 +1,179 @@
+{
+    "questions": [
+        {
+            "question": "When was Omega Psi Phi founded?",
+            "options": ["November 17, 1911", "November 17, 1908", "November 17, 1913", "November 17, 1910"],
+            "answer": "November 17, 1911"
+        },
+        {
+            "question": "Who were the founders of Omega Psi Phi?",
+            "options": [
+                "Benjamin Banneker, George Washington Carver, Martin Luther King Jr.",
+                "Carter G. Woodson, William Sanders Scarborough, W. E. B. Du Bois",
+                "Edgar Amos Love, Oscar James Cooper, Frank Coleman, Ernest Everett Just",
+                "Booker T. Washington, Frederick Douglass, Thurgood Marshall"
+            ],
+            "answer": "Edgar Amos Love, Oscar James Cooper, Frank Coleman, Ernest Everett Just"
+        },
+        {
+            "question": "What is the motto of Omega Psi Phi?",
+            "options": [
+                "Friendship is Essential to the Soul",
+                "Achievement in Every Field of Human Endeavor",
+                "Uplift and Service",
+                "Perseverance and Commitment"
+            ],
+            "answer": "Friendship is Essential to the Soul"
+        },
+        {
+            "question": "What are the colors of Omega Psi Phi?",
+            "options": ["Crimson and Cream", "Royal Blue and Pure White", "Black and Gold", "Royal Purple and Old Gold"],
+            "answer": "Royal Purple and Old Gold"
+        },
+        {
+            "question": "Which of the following is a famous member of Omega Psi Phi?",
+            "options": ["Michael B. Jordan", "Barack Obama", "Bill Cosby", "Colin Powell"],
+            "answer": "Bill Cosby"
+        },
+        {
+            "question": "In which university was Omega Psi Phi founded?",
+            "options": ["Howard University", "Morehouse College", "Spelman College", "Clark Atlanta University"],
+            "answer": "Howard University"
+        },
+        {
+            "question": "What is the nickname of Omega Psi Phi members?",
+            "options": ["Alphas", "Sigmas", "Ques", "Kappas"],
+            "answer": "Ques"
+        },
+        {
+            "question": "Who was the first Grand Basileus of Omega Psi Phi?",
+            "options": ["Oscar James Cooper", "Edgar Amos Love", "Frank Coleman", "Ernest Everett Just"],
+            "answer": "Edgar Amos Love"
+        },
+        {
+            "question": "What does the Greek letter 'Omega' represent in Omega Psi Phi?",
+            "options": ["Beginning", "End", "Eternity", "Strength"],
+            "answer": "End"
+        },
+        {
+            "question": "Which annual event is celebrated by Omega Psi Phi?",
+            "options": ["Founders Day", "Achievement Week", "Leadership Conference", "Scholarship Ball"],
+            "answer": "Achievement Week"
+        },
+        {
+            "question": "What is the primary aim of Omega Psi Phi?",
+            "options": [
+                "To foster academic excellence and upliftment",
+                "To promote athletic achievements",
+                "To engage in political activism",
+                "To organize social events"
+            ],
+            "answer": "To foster academic excellence and upliftment"
+        },
+        {
+            "question": "Which of the following is a hallmark program of Omega Psi Phi?",
+            "options": ["Youth Mentorship Program", "Scholarship Program", "Senior Care Program", "Cultural Exchange Program"],
+            "answer": "Scholarship Program"
+        },
+        {
+            "question": "Which symbol is often associated with Omega Psi Phi?",
+            "options": ["Lamp", "Crown", "Shield", "Torch"],
+            "answer": "Lamp"
+        },
+        {
+            "question": "What does the letter 'Psi' in Omega Psi Phi stand for?",
+            "options": ["Soul", "Mind", "Body", "Spirit"],
+            "answer": "Soul"
+        },
+        {
+            "question": "Omega Psi Phi is a member of which national organization?",
+            "options": ["National Pan-Hellenic Council", "National Association of Fraternal Organizations", "Greek Unity Council", "United Greek Associations"],
+            "answer": "National Pan-Hellenic Council"
+        },
+        {
+            "question": "What is the official flower of Omega Psi Phi?",
+            "options": ["Rose", "Sunflower", "Carnation", "Violet"],
+            "answer": "Violet"
+        },
+        {
+            "question": "Who was the first editor of the Oracle, the official publication of Omega Psi Phi?",
+            "options": ["Stanley Douglas", "Robert H. Lawrence", "Ernest E. Just", "George E. Meares"],
+            "answer": "Stanley Douglas"
+        },
+        {
+            "question": "What year did Omega Psi Phi become incorporated?",
+            "options": ["1914", "1911", "1919", "1922"],
+            "answer": "1914"
+        },
+        {
+            "question": "What is the Omega Psi Phi hymn?",
+            "options": ["Lift Every Voice and Sing", "Omega Dear", "God of Our Fathers", "Brothers Are We"],
+            "answer": "Omega Dear"
+        },
+        {
+            "question": "Which U.S. state has the most Omega Psi Phi chapters?",
+            "options": ["California", "Georgia", "Texas", "New York"],
+            "answer": "Georgia"
+        },
+        {
+            "question": "Which Omega Psi Phi founder served as the 13th Grand Basileus?",
+            "options": ["Frank Coleman", "Oscar James Cooper", "Edgar Amos Love", "Ernest Everett Just"],
+            "answer": "Oscar James Cooper"
+        },
+        {
+            "question": "In which year did Omega Psi Phi celebrate its centennial?",
+            "options": ["2008", "2011", "2015", "2020"],
+            "answer": "2011"
+        },
+        {
+            "question": "Which Omega Psi Phi member was the first African American to serve as Governor of Virginia?",
+            "options": ["Lawrence Douglas Wilder", "Andrew Young", "Thurgood Marshall", "Jesse Jackson"],
+            "answer": "Lawrence Douglas Wilder"
+        },
+        {
+            "question": "Omega Psi Phi’s cardinal principles are Manhood, Scholarship, Perseverance, and what?",
+            "options": ["Achievement", "Leadership", "Brotherhood", "Service"],
+            "answer": "Achievement"
+        },
+        {
+            "question": "What does the Omega Psi Phi shield symbolize?",
+            "options": ["Knowledge, Strength, Perseverance", "Friendship, Unity, Achievement", "Manhood, Scholarship, Perseverance, Uplift", "Leadership, Brotherhood, Service"],
+            "answer": "Manhood, Scholarship, Perseverance, Uplift"
+        },
+        {
+            "question": "What annual event does Omega Psi Phi host to honor the legacy of Dr. Martin Luther King Jr.?",
+            "options": ["King's Leadership Conference", "MLK Day of Service", "King's Achievement Week", "MLK Memorial Walk"],
+            "answer": "MLK Day of Service"
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        },
+        {
+            "question": "",
+            "options": [""],
+            "answer": ""
+        }
+    ]
+}
